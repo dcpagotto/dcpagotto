@@ -8,6 +8,11 @@
 </div>
 
 ###
+
+<br clear="both">
+
+<img align="right" height="150" src="https://www.imagensanimadas.com/data/media/238/aguia-imagem-animada-0055.gif"  />
+
 ###
 
 <div align="left">
